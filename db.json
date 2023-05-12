@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "email": "daniel.asencio@gmail.com",
+      "username": "daniel felipe",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "email": "sadsa",
+      "username": "sdsa",
+      "password": "2YVQ4b63bgg8MrY",
+      "id": 2
+    },
+    {
+      "email": "nicolas@gmail",
+      "username": "123|gmail.com",
+      "password": "12345",
+      "id": 3
+    }
+  ]
+}
